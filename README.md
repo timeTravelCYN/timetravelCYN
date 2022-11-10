@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - [ ] 300🌟 repo x 1.（0/1）
 - [ ] Become member of vite&parcel.（0/2）   
+- [ ] 10 blog. (0/10)
 - [ ] 150 followers.（88/150）   
 - [ ] learn Rust. (0/1)
 
