@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 - 🌱 do better
 
+## 🔭 Goals of 2023 
+
+- [ ] 300🌟 repo x 1.（0/1）
+- [ ] Become member of vite&parcel.（0/2）   
+- [ ] 150 followers.（88/150）   
+- [ ] learn Rust. (0/1)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
